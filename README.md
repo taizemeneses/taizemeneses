@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 <h2 align="center">olá, eu sou a Tai</h2>
-<h4 align="center">sou Analista de Business Intelligence, apaixonada por programação, tecnologia e robotica</h4>                                                                                                                  
-<h5 align="center">resolvi voltar ao GitHub depois de 10 anos em tecnologia para compartilhar meus codigos 💖</h5>
+<h4 align="center">sou Analista de Business Intelligence, apaixonada por programação, tecnologia e robótica</h4>                                                                                                                  
+<h5 align="center">compartilhando meu longo relacionamento de amor e ódio com a programação💖</h5>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=taizemeneses&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
